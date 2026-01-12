@@ -89,20 +89,10 @@ Here are some of the exciting projects I've worked on:
 
 ## 📊 GitHub Stats  
 
-Check out my GitHub contributions and achievements!
-
 <p align="center">
-  <a href="https://github.com/umermemon1">
-    <img src="https://gh-readme-profile.vercel.app/api?username=umermemon1&theme=highcontrast" alt="GitHub Stats" />
-  </a>
+  <img src="https://gh-readme-profile.vercel.app/api?username=umermemon1&theme=highcontrast" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=umermemon1&theme=highcontrast" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umermemon1&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umermemon1&theme=highcontrast" alt="GitHub Streak" />
 </p>
