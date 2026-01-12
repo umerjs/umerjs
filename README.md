@@ -1,4 +1,5 @@
-# Hey There! 👋  
+# Hey There! 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Umer+👋;MERN+Stack+Developer+🚀;Love+to+Build+Modern+Apps+💻;Always+Learning+%26+Improving+✨" alt="Typing SVG" />
 </p>
@@ -11,9 +12,9 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-Hi! I'm **Umer**, a passionate **MERN Stack Developer** from 🇵🇰 *Lyari, Karachi*.  
+Hi! I'm **Umer**, a passionate **MERN Stack Developer** from 🇵🇰 _Lyari, Karachi_.  
 I enjoy building **modern, responsive, and user-friendly applications**.  
 My expertise lies in creating scalable full-stack solutions using the **MERN stack (MongoDB, Express.js, React, Node.js)**. 🚀  
 Always curious and committed to improving my skills! ✨
@@ -26,7 +27,7 @@ Always curious and committed to improving my skills! ✨
 
 ---
 
-### 📫 Let's Connect  
+### 📫 Let's Connect
 
 I'm always happy to connect! Reach out to me via:
 
@@ -50,7 +51,7 @@ I'm always happy to connect! Reach out to me via:
 
 ---
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 
 I'm skilled in a wide variety of technologies that allow me to build full-stack applications:
 
@@ -67,19 +68,19 @@ I'm skilled in a wide variety of technologies that allow me to build full-stack 
 
 ---
 
-## 🚀 Projects & Goals  
+## 🚀 Projects & Goals
 
 Here are some of the exciting projects I've worked on:
 
-| 🛠 Project | 📊 Status | 🔗 Link | 📝 Description |
-|-----------|-----------|--------|----------------|
-| 🌐 **Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/) | My personal portfolio showcasing my work and experience. |
-| 🛒 **E-Commerce UI** | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/) | The frontend of a fully functional shopping website. |
-| 🧠 **WOO Quiz Game** | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A fun quiz app with 150+ questions for students (HTML, CSS, JS). |
+| 🛠 Project                | 📊 Status   | 🔗 Link                                                          | 📝 Description                                                   |
+| ------------------------ | ----------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 🌐 **Portfolio Website** | ✅ Complete | [umer-memon.netlify.app](https://umer-memon.netlify.app/)        | My personal portfolio showcasing my work and experience.         |
+| 🛒 **E-Commerce UI**     | ✅ Complete | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/)            | The frontend of a fully functional shopping website.             |
+| 🧠 **WOO Quiz Game**     | ✅ Complete | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | A fun quiz app with 150+ questions for students (HTML, CSS, JS). |
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png">
@@ -87,12 +88,12 @@ Here are some of the exciting projects I've worked on:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://gh-readme-profile.vercel.app/api?username=umermemon1&theme=highcontrast" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umermemon1&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=umermemon1&theme=highcontrast" alt="GitHub Streak" />
 </p>
