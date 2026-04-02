@@ -201,10 +201,8 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umermemon1/umermemon1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
-
-> 💡 _To activate: add a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) — takes ~2 minutes to set up._
 
 ---
 
