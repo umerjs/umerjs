@@ -70,8 +70,8 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 
 </div>
 
-| For Your Team          | Details                                                               |
-| ---------------------- | --------------------------------------------------------------------- |
+| For Your Team           | Details                                                               |
+| ----------------------- | --------------------------------------------------------------------- |
 | 🚀 **Shipping Speed**   | I move fast — from idea to deployed app with clean, maintainable code |
 | 🎨 **Frontend Craft**   | Pixel-perfect UIs that convert, not just look good                    |
 | 🔩 **Backend Thinking** | REST APIs, auth flows, DB schema design — I think end-to-end          |
@@ -93,8 +93,8 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 
 🔗 **Live:** [luxee-store.vercel.app](https://luxee-store.vercel.app)
 
-| Tech                     | Features                               |
-| ------------------------ | -------------------------------------- |
+| Tech                     | Features                                |
+| ------------------------ | --------------------------------------- |
 | React + Vite             | 🔐 Full Authentication System           |
 | Supabase                 | 🔎 Smart Product Filtering              |
 | Tailwind CSS + shadcn/ui | 📱 Mobile-First Responsive Design       |
@@ -109,8 +109,8 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 
 </div>
 
-| 🛠 Project               | 📊 Status | 🔗 Link                                                           | 📝 Description                                                       |
-| ----------------------- | -------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 🛠 Project               | 📊 Status | 🔗 Link                                                          | 📝 Description                                                      |
+| ------------------------ | --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 🛒 **Luxee Store**       | ✅ Live   | [luxee-store.vercel.app](https://luxee-store.vercel.app)         | Full-stack ecommerce app — auth, filtering, mobile-first UX         |
 | 🌐 **Portfolio Website** | ✅ Live   | [umer-memon.netlify.app](https://umer-memon.netlify.app/)        | Personal portfolio showcasing work, skills & experience             |
 | 🛒 **E-Commerce UI**     | ✅ Live   | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/)            | Frontend of a functional shopping website with product layouts & UX |
@@ -182,10 +182,6 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=umermemon1&theme=highcontrast" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umermemon1&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
