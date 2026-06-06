@@ -14,8 +14,8 @@
   <a href="mailto:umery101@gmail.com">
     <img src="https://img.shields.io/badge/Open%20to%20Work-%2300FFFF?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
   </a>
-  <a href="https://umer-memon.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFFF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio"/>
+  <a href="https://umer-memon.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/umer-the-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
@@ -112,7 +112,7 @@ I build **high-performance, scalable, and mobile-first web applications** — wi
 | 🛠 Project               | 📊 Status | 🔗 Link                                                          | 📝 Description                                                      |
 | ------------------------ | --------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 🛒 **Luxee Store**       | ✅ Live   | [luxee-store.vercel.app](https://luxee-store.vercel.app)         | Full-stack ecommerce app — auth, filtering, mobile-first UX         |
-| 🌐 **Portfolio Website** | ✅ Live   | [umer-memon.netlify.app](https://umer-memon.netlify.app/)        | Personal portfolio showcasing work, skills & experience             |
+| 🌐 **Portfolio Website** | ✅ Live   | [umer-memon.vercel.app](https://umer-memon.vercel.app/)        | Personal portfolio showcasing work, skills & experience             |
 | 🛒 **E-Commerce UI**     | ✅ Live   | [dilsebuy.netlify.app](https://dilsebuy.netlify.app/)            | Frontend of a functional shopping website with product layouts & UX |
 | 🧠 **WOO Quiz Game**     | ✅ Live   | [quizzappbyumer.netlify.app](https://quizzappbyumer.netlify.app) | Interactive quiz app with 150+ questions — pure HTML, CSS & JS      |
 
