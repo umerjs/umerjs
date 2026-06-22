@@ -5,14 +5,14 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/umermemon1?tab=followers">
-    <img src="https://img.shields.io/github/followers/umermemon1?label=Followers&style=for-the-badge&color=00FFFF&logo=github"/>
+  <a href="https://github.com/umerjs?tab=followers">
+    <img src="https://img.shields.io/github/followers/umerjs?label=Followers&style=for-the-badge&color=00FFFF&logo=github"/>
     <a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fumermemon1&style=for-the-badge" alt="Rankistan rank badge">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fumerjs&style=for-the-badge" alt="Rankistan rank badge">
 </a>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=umermemon1&label=Profile+Views&color=00FFFF&style=for-the-badge&logo=star"/>
-  <img src="https://img.shields.io/github/stars/umermemon1?label=Stars&style=for-the-badge&color=00FFFF&logo=starship"/>
+  <img src="https://komarev.com/ghpvc/?username=umerjs&label=Profile+Views&color=00FFFF&style=for-the-badge&logo=star"/>
+  <img src="https://img.shields.io/github/stars/umerjs?label=Stars&style=for-the-badge&color=00FFFF&logo=starship"/>
 </div>
 
 ---
@@ -95,19 +95,19 @@ Features full authentication, smart filtering, and a complete ecommerce flow.
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umermemon1&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umermemon1&theme=highcontrast&hide_border=true&bg_color=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umerjs&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umerjs&theme=highcontrast&hide_border=true&bg_color=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umermemon1&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=00FFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjs&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=00FFFF" width="48%"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umermemon1&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umerjs&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF" width="100%"/>
 </p>
 
 ---
