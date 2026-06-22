@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="mailto:umery101@gmail.com"><img src="https://img.shields.io/badge/Open_to_Work-00FFFF?style=for-the-badge&logo=briefcase&logoColor=black" /></a>
-  <a href="https://umer-memon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://umer-js.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/umer-the-dev"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://x.com/UMERCODER"><img src="https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=x&logoColor=black" /></a>
 </div>
@@ -72,7 +72,7 @@ Features full authentication, smart filtering, and a complete ecommerce flow.
 | 🛠 Project | 📊 Status | 🔗 Link | 📝 Description |
 |------------|-----------|---------|----------------|
 | 🛒 Luxee Store | ✅ Live | [Demo](https://luxee-store.vercel.app) | Full-stack ecommerce app — auth, filtering, mobile-first UX |
-| 🌐 Portfolio Website | ✅ Live | [Visit](https://umer-memon.vercel.app) | Personal portfolio showcasing work, skills & experience |
+| 🌐 Portfolio Website | ✅ Live | [Visit](https://umer-js.vercel.app) | Personal portfolio showcasing work, skills & experience |
 | 🛒 E-Commerce UI | ✅ Live | [Visit](https://dilsebuy.netlify.app/) | Frontend of a functional shopping website with product layouts |
 | 🧠 WOO Quiz Game | ✅ Live | [Play](https://quizzappbyumer.netlify.app/) | Interactive quiz app with 150+ questions — pure HTML, CSS & JS |
 
